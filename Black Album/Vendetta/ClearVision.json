@@ -1,5 +1,5 @@
 {
-    "name": "Furina",
+    "name": "Black Album",
     "description": "Took too long to make functional",
 	"authors": [
       {
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://github.com/BruhHummus/FurinaTheme/blob/main/ClearVision/Vendetta/furina.png?raw=true",
+        "url": "https://github.com/BruhHummus/FurinaTheme/blob/main/Black%20Album/Vendetta/dark.png?raw=true",
 	"alpha": 1
     },
     "plus": {
