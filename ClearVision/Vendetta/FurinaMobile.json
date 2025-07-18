@@ -516,12 +516,12 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://github.com/BruhHummus/FurinaTheme/blob/main/ClearVision/Vendetta/furina.png?raw=true",
+        "url": "https://github.com/BruhHummus/FurinaTheme/blob/main/ClearVision/Vendetta/dark.png?raw=true",
 	"alpha": 1
     },
     "plus": {
         "version": 0,
-        "customOverlays": false
+        "customOverlays": true,
         "icons": {
             "ic_mic_neutral": "#102b47",
             "ic_mic_muted_neutral": "#102b47",
